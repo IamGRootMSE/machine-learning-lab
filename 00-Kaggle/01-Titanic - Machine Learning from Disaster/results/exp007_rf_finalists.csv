@@ -1,0 +1,5 @@
+candidate,params,repeated_cv_mean,repeated_cv_std,repeated_cv_min,repeated_cv_max,number_of_scores
+Tuned candidate 2,"{'model__max_depth': 5, 'model__max_features': 0.75, 'model__min_samples_leaf': 6, 'model__min_samples_split': 8}",0.835004707802398,0.02138935097500991,0.797752808988764,0.8764044943820225,25
+Tuned candidate 4,"{'model__max_depth': 6, 'model__max_features': 0.75, 'model__min_samples_leaf': 6, 'model__min_samples_split': 8}",0.8347787332873016,0.019300785453514362,0.797752808988764,0.8707865168539326,25
+Tuned candidate 3,"{'model__max_depth': 5, 'model__max_features': 0.75, 'model__min_samples_leaf': 4, 'model__min_samples_split': 8}",0.833886133952671,0.02328826507468511,0.7865168539325843,0.8764044943820225,25
+EXP-003 baseline,"{'model__max_depth': 5, 'model__min_samples_leaf': 4, 'model__max_features': 'sqrt', 'model__min_samples_split': 8}",0.827149582574854,0.0235823138717063,0.7808988764044944,0.8764044943820225,25
